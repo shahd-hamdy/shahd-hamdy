@@ -7,9 +7,8 @@
   <br><br> 
   
   <pre>
-     💼 Frontend Developer • UI/UX Enthusiast
-     💻 HTML • CSS • JavaScript • React 
-     🎨 Responsive Design • Web Performance • Accessibility
+     🎨 Frontend Developer • UI/UX Enthusiast
+     💻 HTML • CSS • JavaScript • React
      📖 Continuous Learning • Clean Code • Best Practices
      
   </pre> 
@@ -21,7 +20,5 @@
   <br><br> 
   
   <!-- روابط التواصل -->
-  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/your-link-here) 
-  [![](https://img.shields.io/badge/portfolio-ff9900)](https://your-portfolio-link.com) 
-  [![](https://img.shields.io/badge/github-333)](https://github.com/your-github-username) 
+  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/shahd-hamdy-544723359)
 </div>
