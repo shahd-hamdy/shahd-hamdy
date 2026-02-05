@@ -8,10 +8,10 @@
   
   <pre>
      💼 Frontend Developer • UI/UX Enthusiast
-     💻 HTML • CSS • JavaScript • React • Vue
+     💻 HTML • CSS • JavaScript • React 
      🎨 Responsive Design • Web Performance • Accessibility
      📖 Continuous Learning • Clean Code • Best Practices
-     🎮 Music • Games • Anime • Creative Coding • Art
+     
   </pre> 
   
   <br> 
